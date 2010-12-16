@@ -1,0 +1,4 @@
+pom.xml
+classes/
+lib/
+ant-deb-task*.jar
